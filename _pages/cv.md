@@ -48,20 +48,15 @@ Awards
 Advanced Courses
 ======
 
-* **19-23.09.2016**  
-  "**Advanced course on Modelling of Localized Inelastic Deformation**" taught by prof. Milana Jiráseka, Praga, Republika Czeska.
+* **19-23.09.2016** "**Advanced course on Modelling of Localized Inelastic Deformation**" taught by prof. Milana Jiráseka, Praga, Republika Czeska.
 
-* **6-7.10.2016**  
-  "**Nanomechanika Materiałów i Struktur Materialnych**" taught by prof. Gwidona Szefera, Kraków, Polska.
+* **6-7.10.2016** "**Nanomechanika Materiałów i Struktur Materialnych**" taught by prof. Gwidona Szefera, Kraków, Polska.
 
-* **21-23.02.2017**  
-  "**Short Course on Non-linear Finite Element Analysis with Particular Focus on Time-Dependent Problems**" taught by prof. Stefan Hartmann, Poznań, Polska.
+* **21-23.02.2017** "**Short Course on Non-linear Finite Element Analysis with Particular Focus on Time-Dependent Problems**" taught by prof. Stefan Hartmann, Poznań, Polska.
 
-* **18-22.09.2017**  
-  "**Novel Finite Element Technologies for Solids and Structures**" coordinated by Jörg Schrödera oraz Paulo de Mattos Pimenta, Udine, Włochy.
+* **18-22.09.2017** "**Novel Finite Element Technologies for Solids and Structures**" coordinated by Jörg Schrödera oraz Paulo de Mattos Pimenta, Udine, Włochy.
 
-* **19.03.2019**  
-  "**ACM FOR FEM**", Hannover, Niemcy.
+* **19.03.2019** "**ACM FOR FEM**", Hannover, Niemcy.
 
 
   Internships
