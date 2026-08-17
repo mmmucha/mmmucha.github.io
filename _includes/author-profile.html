@@ -75,6 +75,16 @@
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
       {% endif %}
 
+      {% if author.pbn %}
+        <li>{{ author.pbn }}<i class="fas fa-link icon-pad-right"></i>PBN</a></li>
+      {% endif %}
+
+      {% if author.cris %}
+        <li>{{ author.cris }}<i class="fas fa-link icon-pad-right"></i>CRIS</a></li>
+      {% endif %}
+
+      
+
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
