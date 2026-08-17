@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-under construction
+room: 402 (building of Faculty of Electrical and Computer Engineering)
 
 ## Research Fields
 
