@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Marzena Mucha / Site Title"
 title_separator          : "-"
 name                     : &name "Marzena Mucha"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Marzena's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -44,9 +44,10 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Marzena-Mucha"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57200385500"
+  WoS              : "https://www.scopus.com/authid/detail.uri?authorId=57200385500"
   zotero           : # URL
   PBN              : "https://pbn.nauka.gov.pl/core/#/person/view/5e7092c5878c28a04739c5c5/current"
-
+  CRIS             : "https://cris.pk.edu.pl/info/author/CUT1524f6ee6a044248926e02a91c374387?r=publication&ps=20&tab=publications&lang=en&title=Profil%2Bosoby%2B%25E2%2580%2593%2BMarzena%2BMa%25C5%2582gorzata%2BMucha%2B%25E2%2580%2593%2BPolitechnika%2BKrakowska&pn=1&cid=266279"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -58,7 +59,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
