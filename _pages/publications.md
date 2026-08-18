@@ -11,10 +11,8 @@ redirect_from:
 ## Conferences
 
 ### SolMech2016
-**29.08–02.09.2016, Warsaw**
-
+**29.08–02.09.2016, Warsaw** 
 **Title:** [Large strain thermo-elasto-plasticity: Simulation of shear banding for different stress states](http://solmech2016.ippt.pan.pl/Abstracts/0169.pdf)
-
 **Authors:** B. Wcisło, M. Mucha, K. Kowalczyk-Gajewska and **J. Pamin**
 
 ---
