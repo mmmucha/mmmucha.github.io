@@ -9,6 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+
+Research fields
+======
+
+* Finite Element Method
+
+* Visco-plasticity
+
+* Propagative instabilities
+
+* Thermo-mechanical coupling
+  
+
+Educational fields
+======
+
+* Information Technology
+
+* Engineering Graphics
+
+* Computational Methods
+
+
+
 Education & Work
 ======
 
