@@ -9,7 +9,6 @@ redirect_from:
 
 [CRIS](https://cris.pk.edu.pl/info/author/CUT1524f6ee6a044248926e02a91c374387?r=publication&ps=20&tab=publications&lang=en&title=Profil%2Bosoby%2B%25E2%2580%2593%2BMarzena%2BMa%25C5%2582gorzata%2BMucha%2B%25E2%2580%2593%2BPolitechnika%2BKrakowska&pn=1&cid=266279)
 [PBN](https://pbn.nauka.gov.pl/core/#/person/view/5e7092c5878c28a04739c5c5/current)
-[Orcid](https://orcid.org/0000-0001-9667-6045)
 
 
 ## Articles
