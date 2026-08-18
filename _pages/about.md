@@ -19,8 +19,8 @@ room: 402 (building of Faculty of Electrical and Computer Engineering)
 * Thermo-mechanical Coupling
 
 
-Educational fields
-======
+## Educational fields
+
 
 * Information Technology
 * Engineering Graphics
