@@ -22,12 +22,12 @@ main:
     url: /cv/
 
   - title: "Projects"
-    # url: /projects/
-    children:
-      - title: "Grant nr 2018/31/N/ST8/03573"
-        url: "/project1/"
-      - title: "PhD supplementary materials"
-        url: "/project2/"
+  url: /projects/
+  children:
+    - title: "Grant nr 2018/31/N/ST8/03573"
+      url: "/project1/"
+    - title: "PhD supplementary materials"
+      url: "/project2/"
     
   # - title: "Portfolio"
   #  url: /portfolio/
