@@ -27,7 +27,7 @@ main:
       - title: "Project 1"
         url: "/project1/"
       - title: "Project2"
-        url: "project2"
+        url: "/project2/"
     
   # - title: "Portfolio"
   #  url: /portfolio/
