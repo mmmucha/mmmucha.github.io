@@ -13,7 +13,7 @@ author_profile: true
 
 **Title in Polish:** Analiza numeryczna propagujących się niestateczności termoplastyczności przy dużych odkształceniach
 
-[Description in English (PDF)](/files/description_in_english.pdf)
+[Description in English](/files/description_in_english.pdf)
 
 [Description in Polish](https://projekty.ncn.gov.pl/opisy/429791-pl.pdf)
 
