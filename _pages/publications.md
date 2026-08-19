@@ -7,8 +7,19 @@ redirect_from:
   - /resume
 ---
 
-[CRIS](https://cris.pk.edu.pl/info/author/CUT1524f6ee6a044248926e02a91c374387?r=publication&ps=20&tab=publications&lang=en&title=Profil%2Bosoby%2B%25E2%2580%2593%2BMarzena%2BMa%25C5%2582gorzata%2BMucha%2B%25E2%2580%2593%2BPolitechnika%2BKrakowska&pn=1&cid=266279)
-[PBN](https://pbn.nauka.gov.pl/core/#/person/view/5e7092c5878c28a04739c5c5/current)
+Cześć,
+
+
+pod koniec ostatniego semestru Piotr podszedł do mnie i zapytał czy potencjalnie mogłabym 
+
+przejąć od Ciebie koordynowanie GI, rozumiem że później nie rozmawiał o tym z Tobą?
+
+
+Pozdrawiam
+
+CUT portal with publications: [CRIS](https://cris.pk.edu.pl/info/author/CUT1524f6ee6a044248926e02a91c374387?r=publication&ps=20&tab=publications&lang=en&title=Profil%2Bosoby%2B%25E2%2580%2593%2BMarzena%2BMa%25C5%2582gorzata%2BMucha%2B%25E2%2580%2593%2BPolitechnika%2BKrakowska&pn=1&cid=266279)
+
+Polskia Bibliografia Naukowa (Polish Scholarly Bibliography): [PBN](https://pbn.nauka.gov.pl/core/#/person/view/5e7092c5878c28a04739c5c5/current)
 
 
 ## Articles
