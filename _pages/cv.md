@@ -41,7 +41,7 @@ Awards
 
 * Winning national stage of ECCOMAS PhD Awards 2023 [link](https://ptmkm.pl/?p=403)
 
-* Medal im prof. Jana Szmeltera za dokonania młodego pracownika nauki 2024 [link](https://www.wim.wat.edu.pl/xvii-konferencja-naukowo-techniczna-tki2024/) [link](https://wil.pk.edu.pl/index.php?option=com_content&view=article&id=3249:dr-inz-marzena-mucha-nagrodzona-medalem-im-prof-jana-szmeltera&catidg=pl-pl&Itemid=171
+* Medal im prof. Jana Szmeltera za dokonania młodego pracownika nauki 2024 [link](https://www.wim.wat.edu.pl/xvii-konferencja-naukowo-techniczna-tki2024/) [link](https://wil.pk.edu.pl/index.php?option=com_content&view=article&id=3249:dr-inz-marzena-mucha-nagrodzona-medalem-im-prof-jana-szmeltera&catidg=pl-pl&Itemid=171)
 
 * Wyróżnienie Rektora dla Nauczycieli Akademickich za rok 2023 rok za uzyskanie stopnia doktora z wyróżnieniem
 
