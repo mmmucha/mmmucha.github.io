@@ -18,4 +18,14 @@ Gradient-enhanced model
 
 Distribution of $\gamma$ (left) and $\dot{\gamma}$ (right) for the gradient-enhanced model and internal length equal to 10 mm. **White parts of the sample are caused by graphic problems.**
 
+Viscoplastic model
+
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="/images/blueplot_dotgamma_1-1.png" style="width: 33%; height: auto;">
+  <img src="/images/blueplot_dotgamma_1-2.png" style="width: 33%; height: auto;">
+  <img src="/images/blueplot_dotgamma_1-3.png" style="width: 33%; height: auto;">
+</div>
+
+Plot of $\dot{\gamma}$ along the horizontal axis made in the center of the sample.
+
 
