@@ -58,3 +58,14 @@ Viscoplastic model
 </div>
 
 Distribution of $\dot{\gamma}$ for the viscoplastic model and viscosity equal to 4 (left) and 0.04 (right).
+
+
+## PLC effect
+
+
+
+Middle strain rate, fine mesh, thermo-visco-plastic model: $\dot{\gamma}$ (left), $\Delta T$ (right).
+
+
+
+Middle strain rate, fine mesh,thermo-visco-plastic model with gradient enhacement: $\dot{\gamma}$ (left), $\Delta T$ (right).
