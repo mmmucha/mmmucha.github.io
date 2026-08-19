@@ -22,7 +22,7 @@ main:
     url: /cv/
 
   - title: "Projects"
-    url: /projects/
+    # url: /projects/
     children:
       - title: "Project 1"
         url: "/project1/"
