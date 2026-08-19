@@ -22,7 +22,12 @@ main:
     url: /cv/
 
   - title: "Projects"
-    url: /projects/
+    # url: /projects/
+    children:
+      - title: "Project 1"
+        url: "/project1/"
+      - title: "Project2"
+        url: "project2"
     
   # - title: "Portfolio"
   #  url: /portfolio/
