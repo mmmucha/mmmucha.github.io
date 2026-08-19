@@ -8,25 +8,19 @@ author_profile: true
 
 ## About project
 
-**Principal Investigator Cracow University of Technology:** prof. Jerzy Pamin  
-[Homepage](https://www.cce.pk.edu.pl/~jpamin/doku.php?id=en:start)
+**Principal Investigator Cracow University of Technology:** prof. Jerzy Pamin [Homepage](https://www.cce.pk.edu.pl/~jpamin/doku.php?id=en:start)
 
-**Investigator Cracow University of Technology:** dr Balbina Wcisło  
-[Homepage](https://www.cce.pk.edu.pl/~bwcislo/doku.php?id=en:start)
+**Investigator Cracow University of Technology:** dr Balbina Wcisło [Homepage](https://www.cce.pk.edu.pl/~bwcislo/doku.php?id=en:start)
 
-**Investigator Cracow University of Technology:** dr Marzena Mucha  
-[Homepage](https://www.cce.pk.edu.pl/~mmucha/doku.php?id=en:start)
+**Investigator Cracow University of Technology:** dr Marzena Mucha [Homepage](https://www.cce.pk.edu.pl/~mmucha/doku.php?id=en:start)
 
 **PhD Student Cracow University of Technology:**
 
-**Principal Investigator TU Dortmund University:** prof. Andreas Menzel  
-[Homepage](https://im.mb.tu-dortmund.de/institut/team/andreas-menzel/)
+**Principal Investigator TU Dortmund University:** prof. Andreas Menzel [Homepage](https://im.mb.tu-dortmund.de/institut/team/andreas-menzel/)
 
-**Investigator TU Dortmund University:** dr Lars Rose  
-[Homepage](https://im.mb.tu-dortmund.de/institut/team/lars-rose/)
+**Investigator TU Dortmund University:** dr Lars Rose [Homepage](https://im.mb.tu-dortmund.de/institut/team/lars-rose/)
 
-**PhD Student TU Dortmund University:** M.Sc. Samuel Brabender  
-[Homepage](https://im.mb.tu-dortmund.de/institut/team/wissenschaftliche-mitarbeiterinnen/samuel-brabender/)
+**PhD Student TU Dortmund University:** M.Sc. Samuel Brabender [Homepage](https://im.mb.tu-dortmund.de/institut/team/wissenschaftliche-mitarbeiterinnen/samuel-brabender/)
 
 **Title:** Thermo-mechanical analysis of propagating instabilities in metals, from experiments to reliable numerical prediction (THERMINST)
 
