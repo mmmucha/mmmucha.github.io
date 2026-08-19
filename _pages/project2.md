@@ -63,9 +63,20 @@ Distribution of $\dot{\gamma}$ for the viscoplastic model and viscosity equal to
 ## PLC effect
 
 
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="/images/comp46visco_6o1_finemesh_dotgamma_diffbc.gif"
+       style="width: 15%; height: auto;">
+  <img src="/images/comp46visco_6o1_finemesh_temp_diffbc.gif"
+       style="width: 15%; height: auto;">
+</div>
 
 Middle strain rate, fine mesh, thermo-visco-plastic model: $\dot{\gamma}$ (left), $\Delta T$ (right).
 
-
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="/images/comp46gradvisco_6o1_finemesh_dotgamma_diffbc.gif"
+       style="width: 15%; height: auto;">
+  <img src="/images/comp46gradvisco_6o1_finemesh_temp_diffbc.gif"
+       style="width: 15%; height: auto;">
+</div>
 
 Middle strain rate, fine mesh,thermo-visco-plastic model with gradient enhacement: $\dot{\gamma}$ (left), $\Delta T$ (right).
