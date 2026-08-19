@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 
-- [Project 1](/project1/)
-- [Project 2](/project2/)
+- [Grant nr 2018/31/N/ST8/03573](/project1/)
+- [PhD supplementary materials](/project2/)
