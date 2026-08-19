@@ -137,3 +137,5 @@ Additional materials are stored on Zenodo.
 * B. Wcisło, J. Pamin, K. Kowalczyk-Gajewska, and A. Menzel. **Source data and figures for: *An analytical–numerical approach for the stability analysis of large strain thermo-elastoplastic material models***, Dataset, doi:10.5281/zenodo.19189923, 2025. [Zenodo](https://zenodo.org/records/19189923)
 
 * A. Sobierańska and B. Wcisło. **Numerical modeling of aluminium alloy using large strain thermo-elasto-plasticity at different temperatures**, Presentation, doi:10.5281/zenodo.19189323, 2025. [Zenodo](https://zenodo.org/records/19189323)
+
+* * M. Mucha. **Analysis of Portevin Le Châtelier Effect Data using Different Sample Entropy Measures**. *Acta Mechanica et Automatica*, 20, 710–718, doi:10.2478/ama-2025-0080, 2025. [Zenodo]()
