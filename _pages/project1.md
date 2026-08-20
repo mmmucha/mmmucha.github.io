@@ -38,7 +38,7 @@ Project is financed by [Polish National Science Centre](https://ncn.gov.pl)
 * **YIC2019**, 1-6.09.2019, Krakow, poster  
   **Title:** Comparison of propagative instabilities in shear and tension for viscoplastic and gradient enhanced model  
   **Authors:** <u>M. Mucha</u>, B. Wcisło and J. Pamin  
-  [Additional Materials](https://www.l5.pk.edu.pl/~mmucha/doku.php?id=en:yic2019additionalmaterials)
+  [Additional Materials](https://mmmucha.github.io/project2/)
 
 * **PCM-CMM2019**, 8-12.09.2019, Krakow  
   **Title:** Simulation of a propagative instability using large strain thermo-elasto-visco-plasticity  
