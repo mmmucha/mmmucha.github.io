@@ -8,29 +8,33 @@ redirect_from:
 ---
 
 **SolMech2016**, 29.08–2.09.2016, Warsaw  
-title: [LARGE STRAIN THERMO-ELASTO-PLASTICITY: SIMULATION OF SHEAR BANDING FOR DIFFERENT STRESS STATES](http://solmech2016.ippt.pan.pl/Abstracts/0169.pdf)  
+title: Large strain thermo-elasto-plasticity: simulation of shear banding for different stress states  
 authors: B. Wcisło, M. Mucha, K. Kowalczyk-Gajewska and <u>J. Pamin</u>
+[Abstract](http://solmech2016.ippt.pan.pl/Abstracts/0169.pdf)
 
 **CMM2017**, 13–16.09.2017, Lublin  
-title: [Shear banding in large strain plasticity – influence of specimen dimensions](http://cmm2017.pollub.pl/materials/abstracts/268.pdf)  
+title: Shear banding in large strain plasticity – influence of specimen dimensions  
 authors: <u>M. Mucha</u>, B. Wcisło, M. Wrona and J. Pamin
+[Abstract](http://cmm2017.pollub.pl/materials/abstracts/268.pdf)
 
 **21st Inter-Institute Seminar for Young Researchers**, 06–08.10.2017, Budapest  
 title: Plate dimension-dependence of shear banding in large strain plasticity and thermoplasticity  
 authors: <u>M. Mucha</u>, B. Wcisło, M. Wrona and J. Pamin
 
 **SolMech2018**, 27–31.08.2018, Warsaw  
-title: [REGULARIZED LARGE STRAIN ELASTO-PLASTICITY: SIMULATION OF A PROPAGATIVE INSTABILITY](http://solmech2018.ippt.pan.pl/BookOfAbstracts.pdf)  
+title: Regularized large strain elasto-plasticity: simulation of a propagative instability
 authors: <u>M. Mucha</u>, B. Wcisło and J. Pamin
+[Book of abstracts](http://solmech2018.ippt.pan.pl/BookOfAbstracts.pdf)
 
 **RCM2019**, 20–22.03.2019, Hannover  
 title: Numerical Analysis of a Propagative Instability using Large Strain Elasto-Visco-Plasticity  
 authors: <u>M. Mucha</u>, B. Wcisło and J. Pamin
 
 **YIC2019**, 1–6.09.2019, Krakow, poster  
-title: [Comparison of propagative instabilities in shear and tension for viscoplastic and gradient enhanced model](https://yic2019.agh.edu.pl/wp-content/uploads/2019/08/YIC2019_book_of_abstracts.pdf)  
-authors: <u>M. Mucha</u>, B. Wcisło and J. Pamin  
-[Additional Materials](#)
+title: Comparison of propagative instabilities in shear and tension for viscoplastic and gradient enhanced model 
+authors: <u>M. Mucha</u>, B. Wcisło and J. Pamin
+[Book of abstracts](https://yic2019.agh.edu.pl/wp-content/uploads/2019/08/YIC2019_book_of_abstracts.pdf)
+[Additional Materials](https://mmmucha.github.io/project2/)
 
 **PCM-CMM2019**, 8–12.09.2019, Krakow  
 title: Simulation of a propagative instability using large strain thermo-elasto-visco-plasticity  
