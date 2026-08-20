@@ -47,8 +47,7 @@ Project is financed by [Polish National Science Centre](https://ncn.gov.pl)
 * **WCCM2020**, 11-15.01.2021, Virtual Congress  
   **Title:** Finite Element Simulation of Lueders Bands in Shear Using Regularized Large Strain Plasticity Models  
   **Authors:** <u>M. Mucha</u>, J. Pamin and B. Wcisło  
-  [Book of abstracts](https://www.wccm-eccomas2020.org/frontal/docs/WCCM-XIV-ECCOMAS-2020.pdf)  
-  [Presentation](https://slideslive.com/38945642)
+  [Book of abstracts](https://www.wccm-eccomas2020.org/frontal/docs/WCCM-XIV-ECCOMAS-2020.pdf)   [Presentation](https://slideslive.com/38945642)
 
 * **YIC2021**, 7-9.07.2021, Valencia, online  
   **Title:** Numerical analysis of PLC effect using large strain elasto-plasticity models  
