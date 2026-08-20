@@ -118,3 +118,7 @@ authors: <u>M. Mucha</u>, L. Rose, B. Wcisło, S. Brabender, A. Menzel and J. Pa
 title: Regularization necessity in finite strain softening thermo-elasto-plasticity  
 authors: <u>J. Pamin</u>, B. Wcisło, M. Mucha and A. Menzel
 
+**WCCM2026**, 19-24.07.2026,Monachium
+title: Experimental and numerical analysis of tension in notched specimens made of aluminum alloy AW5083
+authors: <u>M. Mucha</u>, S. Tomkiewicz, S. Brabender, L. Rose, B. Wcisło, A. Menzel and J. Pamin
+
