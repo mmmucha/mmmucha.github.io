@@ -121,7 +121,7 @@ Project is financed by [Polish National Science Centre](https://ncn.gov.pl)
 * **WCCM2026**, 19-24.07.2026,Monachium  
   **Title**: Experimental and numerical analysis of tension in notched specimens made of aluminum alloy AW5083    
   **Authors**: <u>M. Mucha</u>, S. Tomkiewicz, S. Brabender, L. Rose, B. Wcisło, A. Menzel and J. Pamin  
-  [Abstract](https://wccm-eccomas2026.org/event/contribution/18f1335b-ee40-11f0-b205-000c29ddfc0c)
+  [Abstract](https://wccm-eccomas2026.org/event/contribution/18f1335b-ee40-11f0-b205-000c29ddfc0c)   [Abstract](https://congressarchive.cimne.com/wccm_eccomas_2026/abstracts/18f1335bee4011f0b205000c29ddfc0c.pdf)
 
 
 ## Visits
