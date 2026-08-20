@@ -33,8 +33,7 @@ redirect_from:
 * **YIC2019**, 1–6.09.2019, Krakow, poster  
   **Title:** Comparison of propagative instabilities in shear and tension for viscoplastic and gradient enhanced model  
   **Authors:** <u>M. Mucha</u>, B. Wcisło and J. Pamin  
-  [Book of abstracts](https://yic2019.agh.edu.pl/wp-content/uploads/2019/08/YIC2019_book_of_abstracts.pdf)
-  [Additional Materials](https://mmmucha.github.io/project2/)
+  [Book of abstracts](https://yic2019.agh.edu.pl/wp-content/uploads/2019/08/YIC2019_book_of_abstracts.pdf)   [Additional Materials](https://mmmucha.github.io/project2/)
 
 * **PCM-CMM2019**, 8–12.09.2019, Krakow  
   **Title:** Simulation of a propagative instability using large strain thermo-elasto-visco-plasticity  
@@ -43,8 +42,7 @@ redirect_from:
 * **WCCM2020**, 11–15.01.2021, Virtual Congress  
   **Title:** Finite element simulation of Lueders bands in shear using regularized large strain plasticity models  
   **Authors:** <u>M. Mucha</u>, J. Pamin and B. Wcisło  
-  [Book of abstracts](https://www.wccm-eccomas2020.org/frontal/docs/WCCM-XIV-ECCOMAS-2020.pdf)
-  [Presentation](https://slideslive.com/38945642)
+  [Book of abstracts](https://www.wccm-eccomas2020.org/frontal/docs/WCCM-XIV-ECCOMAS-2020.pdf)   [Presentation](https://slideslive.com/38945642)
 
 * **YIC2021**, 7–9.07.2021, Valencia, online  
   **Title:** Numerical analysis of PLC effect using large strain elasto-plasticity models  
@@ -117,8 +115,7 @@ redirect_from:
 * **EMMC20**, 27–29.05.2026, Florence  
   **Title:** Regularization necessity in finite strain softening thermo-elasto-plasticity  
   **Authors:** <u>J. Pamin</u>, B. Wcisło, M. Mucha and A. Menzel  
-  [Abstract](https://www.dicea.unifi.it/upload/sub/eventi/2024/EMMC2026/Abstracts/590.pdf)
-  [Book of Abstracts](https://drive.google.com/file/d/1HJEH-DiYinD6PJx3Jq6wxf2sznToyBTB/view)
+  [Abstract](https://www.dicea.unifi.it/upload/sub/eventi/2024/EMMC2026/Abstracts/590.pdf)   [Book of Abstracts](https://drive.google.com/file/d/1HJEH-DiYinD6PJx3Jq6wxf2sznToyBTB/view)
 
 * **WCCM2026**, 19–24.07.2026, Monachium  
   **Title:** Experimental and numerical analysis of tension in notched specimens made of aluminum alloy AW5083  
