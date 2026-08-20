@@ -32,13 +32,13 @@ Polskia Bibliografia Naukowa (Polish Scholarly Bibliography): [PBN](https://pbn.
 * B. Wcisło, M. Mucha and J. Pamin. **Internal heat sources in large strain thermo-elasto-plasticity – theory and finite element simulations**. Journal of Theoretical and Applied Mechanics, 62(2), 293-306, doi:10.15632/jtam-pl/185614, 2024. [article](http://jtam.pl/Internal-heat-sources-in-large-strain-thermo-elasto-plasticity-theory-and-finite,185614,0,2.html)
 
 * M. Mucha. **Analysis of Portevin Le Châtelier Effect Data using Diffferent Sample Entropy Measures**, Acta Mechanica et Automatica, 20, 710-718, doi:10.2478/ama-2025-0080, 2025. [Article](https://reference-global.com/article/10.2478/ama-2025-0080)
-
+  
 
 ## Articles in Polish
 
 * Z. Mucha and M. Mucha. **Zastosowanie reaktorów z osadem czynnym o działaniu cyklicznym w gminnych oczyszczalniach ścieków**, [The use of SBR reactors in communal wastewater treatment plants]. *Rynek Instalacyjny*, (12):75-78, 2016. [article in Polish](http://www.rynekinstalacyjny.pl/artykul/id4159,zastosowanie-reaktorow-z-osadem-czynnym-o-dzialaniu-cyklicznym-w-gminnych-oczyszczalniach-sciekow)
 
-* Z. Mucha, J. Mikosz and M. Mucha. **Analiza koncepcji modernizacji gminnej oczyszczalni ścieków wykorzystującej metody naturalne: studium przypadku**, [Analysis of the concept of modernization of a municipal wastewater treatment plant using natural methods: case study]. *Gaz, Woda i Technika Sanitarna*, 91(11):429-432, 2017. [abstract in Polish](http://www.gazwoda.pl/index.php?option=content&task=view&id=7755)
+* Z. Mucha, J. Mikosz and M. Mucha. **Analiza koncepcji modernizacji gminnej oczyszczalni ścieków wykorzystującej metody naturalne: studium przypadku**, [Analysis of the concept of modernization of a municipal wastewater treatment plant using natural methods: case study]. *Gaz, Woda i Technika Sanitarna*, 91(11):429-432, 2017. [abstract in Polish](http://www.gazwoda.pl/index.php?option=content&task=view&id=7755) <!-- link jest zepsuty -->
 
 * M. Mucha. **Porównanie koncepcji rozbudowy gminnej oczyszczalni ścieków dla aglomeracji powyżej 10 tys. RLM**, [The commune WWTP for 10 000 PE – different options for its expansion]. *Rynek Instalacyjny*, (11):75-77, 2017. [article in Polish](http://www.rynekinstalacyjny.pl/artykul/id4382,porownanie-koncepcji-rozbudowy-gminnej-oczyszczalni-sciekow-dla-aglomeracji-powyzej-10-tys.-rlm-rownowaznej-liczbie-mieszkancow)
 
