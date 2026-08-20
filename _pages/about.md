@@ -9,6 +9,8 @@ redirect_from:
 
 ## About me
 
+email: marzena.mucha(at)pk.edu.pl
+
 room: 402 (building of Faculty of Electrical and Computer Engineering)
 
 ## Research Fields
