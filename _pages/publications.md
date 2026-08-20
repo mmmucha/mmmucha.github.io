@@ -31,7 +31,7 @@ Polskia Bibliografia Naukowa (Polish Scholarly Bibliography): [PBN](https://pbn.
 
 * B. Wcisło, M. Mucha and J. Pamin. **Internal heat sources in large strain thermo-elasto-plasticity – theory and finite element simulations**. Journal of Theoretical and Applied Mechanics, 62(2), 293-306, doi:10.15632/jtam-pl/185614, 2024. [article](http://jtam.pl/Internal-heat-sources-in-large-strain-thermo-elasto-plasticity-theory-and-finite,185614,0,2.html)
 
-* M. Mucha. **Analysis of Portevin Le Châtelier Effect Data using Diffferent Sample Entropy Measures**, Acta Mechanica et Automatica, 20, 710-718, doi:10.2478/ama-2025-0080, 2025. [Article](https://reference-global.com/article/10.2478/ama-2025-0080)
+* M. Mucha. **Analysis of Portevin Le Châtelier Effect Data using Diffferent Sample Entropy Measures**, Acta Mechanica et Automatica, 20, 710-718, doi:10.2478/ama-2025-0080, 2025. [Article](https://reference-global.com/article/10.2478/ama-2025-0080) [Zenodo](https://zenodo.org/records/19189923)
   
 
 ## Articles in Polish
