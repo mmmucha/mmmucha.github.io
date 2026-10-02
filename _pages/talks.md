@@ -122,7 +122,7 @@ redirect_from:
   **Authors:** <u>M. Mucha</u>, S. Tomkiewicz, S. Brabender, L. Rose, B. Wcisło, A. Menzel and J. Pamin  
   [Abstract](https://wccm-eccomas2026.org/event/contribution/18f1335b-ee40-11f0-b205-000c29ddfc0c)   [Abstract](https://congressarchive.cimne.com/wccm_eccomas_2026/abstracts/18f1335bee4011f0b205000c29ddfc0c.pdf)
 
-  * **SolMech2026**, 7–10.09.2026, Kraków  
+* **SolMech2026**, 7–10.09.2026, Kraków  
   **Title:** Large strain thermo-visco-plastic model for case-hardening steel  
   **Authors:** <u>M. Mucha</u>, R. Denzer, B. Wcisło, A. Menzel and J. Pamin  
   [Book of Abstracts](https://solmech2026.ippt.pan.pl/docs/SolMech2026_Book-of-Abstracts.pdf)
