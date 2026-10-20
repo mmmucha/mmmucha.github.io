@@ -75,6 +75,8 @@ PhD Thesis
 
 * [PhD supplementary materials](https://mmmucha.github.io/project2/)
 
+* Article in Lądowiec [link](https://wilit.pk.edu.pl/wp-content/uploads/2024/02/Informator-Wydzialu-Inzynierii-Ladowej-Ladowiec-2023_63.pdf)
+
 
 Advanced Courses
 ======
