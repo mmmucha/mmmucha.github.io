@@ -69,7 +69,7 @@ PhD Thesis
 
 * [Thesis](https://repozytorium.biblos.pk.edu.pl/resources/46543)
 
-* [PhD supplementary materials](https://www.cce.pk.edu.pl/~mmucha/PhD/doku.php?id=en:plc)
+* [PhD supplementary materials](https://mmmucha.github.io/project2/)
 
 
 Advanced Courses
