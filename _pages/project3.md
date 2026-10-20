@@ -14,7 +14,7 @@ author_profile: true
 
 **Investigator Cracow University of Technology:** dr Marzena Mucha [Homepage](https://www.cce.pk.edu.pl/~mmucha/doku.php?id=en:start)
 
-**PhD Student Cracow University of Technology:**
+**PhD Student Cracow University of Technology:**  M.Sc. Aleksandra Hudaszek
 
 **Principal Investigator TU Dortmund University:** prof. Andreas Menzel [Homepage](https://im.mb.tu-dortmund.de/institut/team/andreas-menzel/)
 
@@ -143,7 +143,9 @@ Project is financed by [Polish National Science Centre](https://ncn.gov.pl)
 
 ## Diplomas
 
-A. Sobierańska. **Finite element modeling of an aluminum alloy with large strain thermo-elasto-plasticity** (in Polish: *Modelowanie skończenie elementowe stopu aluminium za pomocą termo-sprężysto-plastyczności z uwzględnieniem dużych odkształceń*), 2025.
+A. Sobierańska. Supervisor: dr B. Wcisło. **Finite element modeling of an aluminum alloy with large strain thermo-elasto-plasticity** (in Polish: *Modelowanie skończenie elementowe stopu aluminium za pomocą termo-sprężysto-plastyczności z uwzględnieniem dużych odkształceń*), 2025.
+
+S. Tomkiewicz. Supervisor: dr M. Mucha. **Numerical simulations of notched specimens in tension** ((in Polish: *Symulacje numeryczne rozciąganych próbek z nacięciami*), 2026.
 
 
 ## Additional Materials
