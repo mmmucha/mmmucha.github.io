@@ -31,9 +31,9 @@ Grants & Scholarships
 
 * Scholarship in NCN grant Opus, nr 2014/15/B/ST8/01322, **„Numerical analysis of instabilities of isotropic thermoplastic material at large strain”**, polski tytuł: “Analiza numeryczna niestateczności izotropowego materiału termoplastycznego przy dużych deformacjach”. [project website](https://www.cce.pk.edu.pl/~bwcislo/grant/doku.php?id=en:start#)
 
-* Grant NCN Preludium, nr 2018/31/N/ST8/03573, **“Numerical analysis of propagative instabilities in large strain thermoplasticity”**, polski tytuł: “Analiza numeryczna propagujących się niestateczności termoplastyczności przy dużych odkształceniach”. [description in polish](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2018-09-14/streszczenia/429791-pl.pdf) [project website](https://www.cce.pk.edu.pl/~mmucha/grant/doku.php?id=en:start#)
+* Grant NCN Preludium, nr 2018/31/N/ST8/03573, **“Numerical analysis of propagative instabilities in large strain thermoplasticity”**, polski tytuł: “Analiza numeryczna propagujących się niestateczności termoplastyczności przy dużych odkształceniach”. [description in polish](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2018-09-14/streszczenia/429791-pl.pdf) [project website](https://mmmucha.github.io/project1/)
 
-* Position in grant Weave-UNISONO, 2023/05/Y/ST8/00006, **„Thermo-mechanical analysis of propagating instabilities in metals, from experiments to reliable numerical prediction (THERMINST)”**. [project website](https://www.cce.pk.edu.pl/~mmucha/grantwu/doku.php?id=en:start)
+* Position in grant Weave-UNISONO, 2023/05/Y/ST8/00006, **„Thermo-mechanical analysis of propagating instabilities in metals, from experiments to reliable numerical prediction (THERMINST)”**. [project website](https://mmmucha.github.io/project3/)
 
 
 Awards
