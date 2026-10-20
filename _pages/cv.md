@@ -25,6 +25,8 @@ Education & Work
 
 * **2024-present:** Assistant Professor, Chair for Computational Engineering (formerly Institute for Computational Civil Engineering), Cracow University of Technology
 
+* Member of the Organizing Committee for [SolMech2026](https://solmech2026.ippt.pan.pl/) 
+
 
 Grants & Scholarships
 ======
