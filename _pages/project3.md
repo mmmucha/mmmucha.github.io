@@ -61,7 +61,7 @@ Project is financed by [Polish National Science Centre](https://ncn.gov.pl)
 * M. Mucha. **Analysis of Portevin Le Châtelier Effect Data using Different Sample Entropy Measures**. *Acta Mechanica et Automatica*, 20, 710–718, doi:10.2478/ama-2025-0080, 2025. [Article](https://reference-global.com/article/10.2478/ama-2025-0080)
 * A. Sobierańska and B. Wcisło. **Numerical modeling of aluminum alloy AW5083 using large strain thermo-elasto-plasticity**. *Engineering Transactions (Rozprawy inżynierskie)*, 1–20, doi:10.24423/engtrans.2025.3639, 2025. [Article](https://et.ippt.pan.pl/index.php/et/article/view/3639)
 
-* L. Rose and A. Menzel. Consistent treatment of ageing-time evolution in McCormick type material models. Int. J. Solids Struct., 337:114030, doi:10.1016/j.ijsolstr.2026.114030, 2026. [Article](https://www.sciencedirect.com/science/article/pii/S0020768326002027?via%3Dihub)
+* L. Rose and A. Menzel. **Consistent treatment of ageing-time evolution in McCormick type material models**. Int. J. Solids Struct., 337:114030, doi:10.1016/j.ijsolstr.2026.114030, 2026. [Article](https://www.sciencedirect.com/science/article/pii/S0020768326002027?via%3Dihub)
 * L. Rose, H. Ovri, and A. Menzel. **Stress-driven solute diffusion under applied load in dynamic strain ageing**. Mater. Sci. Eng. A, 978:151188, doi:10.1016/j.msea.2026.151188, 2026. [Article](https://www.sciencedirect.com/science/article/pii/S0921509326014681?via%3Dihub)
 
 ## Conferences
